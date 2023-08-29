@@ -1,0 +1,5 @@
+C:\Users\86137\source\repos\WebApplicationDemo\ClassLibraryCom\bin\Debug\ClassLibraryCom.dll
+C:\Users\86137\source\repos\WebApplicationDemo\ClassLibraryCom\bin\Debug\ClassLibraryCom.pdb
+C:\Users\86137\source\repos\WebApplicationDemo\ClassLibraryCom\obj\Debug\ClassLibraryCom.csproj.CoreCompileInputs.cache
+C:\Users\86137\source\repos\WebApplicationDemo\ClassLibraryCom\obj\Debug\ClassLibraryCom.dll
+C:\Users\86137\source\repos\WebApplicationDemo\ClassLibraryCom\obj\Debug\ClassLibraryCom.pdb
